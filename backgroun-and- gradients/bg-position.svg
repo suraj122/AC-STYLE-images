@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="700px" height="380px" viewBox="0 0 700 380" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 25</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Diagram" transform="translate(-357.000000, -2805.000000)">
+            <g id="Group-25" transform="translate(357.000000, 2805.000000)">
+                <rect id="Rectangle-2-Copy" fill="#D2EBFF" x="0" y="0" width="700" height="380"></rect>
+                <text id="0" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" letter-spacing="-1.16599989" fill="#4C4E4F">
+                    <tspan x="16" y="36">0</tspan>
+                </text>
+                <text id="0" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" letter-spacing="-1.16599989" fill="#4C4E4F">
+                    <tspan x="16" y="326">0</tspan>
+                </text>
+                <text id="left" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" letter-spacing="-1.16599989" fill="#4C4E4F">
+                    <tspan x="16" y="69">left</tspan>
+                </text>
+                <text id="left-copy" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" letter-spacing="-1.16599989" fill="#4C4E4F">
+                    <tspan x="16" y="359">left</tspan>
+                </text>
+                <text id="top" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" letter-spacing="-1.16599989" fill="#4C4E4F">
+                    <tspan x="56" y="69">top</tspan>
+                </text>
+                <text id="bottom" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" letter-spacing="-1.16599989" fill="#4C4E4F">
+                    <tspan x="56" y="359">bottom</tspan>
+                </text>
+                <text id="0-copy" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" letter-spacing="-1.16599989" fill="#4C4E4F">
+                    <tspan x="44" y="36">0</tspan>
+                </text>
+                <text id="100%" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" letter-spacing="-1.16599989" fill="#4C4E4F">
+                    <tspan x="44" y="326">100%</tspan>
+                </text>
+                <text id="100%" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" letter-spacing="-1.16599989" fill="#4C4E4F">
+                    <tspan x="607.490171" y="36">100%</tspan>
+                </text>
+                <text id="100%" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" letter-spacing="-1.16599989" fill="#4C4E4F">
+                    <tspan x="570.490171" y="326">100%</tspan>
+                </text>
+                <text id="right" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" letter-spacing="-1.16599989" fill="#4C4E4F">
+                    <tspan x="604.400312" y="69">right</tspan>
+                </text>
+                <text id="right-copy" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" letter-spacing="-1.16599989" fill="#4C4E4F">
+                    <tspan x="569.400312" y="359">right</tspan>
+                </text>
+                <text id="top" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" letter-spacing="-1.16599989" fill="#4C4E4F">
+                    <tspan x="655.636672" y="69">top</tspan>
+                </text>
+                <text id="bottom" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" letter-spacing="-1.16599989" fill="#4C4E4F">
+                    <tspan x="620.119046" y="359">bottom</tspan>
+                </text>
+                <text id="0-copy" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" letter-spacing="-1.16599989" fill="#4C4E4F">
+                    <tspan x="672.812484" y="36">0</tspan>
+                </text>
+                <text id="100%" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" letter-spacing="-1.16599989" fill="#4C4E4F">
+                    <tspan x="635.490171" y="326">100%</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
